@@ -14,6 +14,7 @@ The objective of this project is to transform raw business data into meaningful 
 - Detect **loss-making segments**
 - Create interactive dashboards for decision-making
 
+![demo project ](https://github.com/shahil04/sample-super-store/blob/main/de.jpg)
 ---
 
 ## 🗂 Dataset Information
@@ -83,3 +84,4 @@ Dataset Source: *Sample Superstore Dataset*
 
 ## 📷 Dashboard Preview
 (Add dashboard screenshot here)
+
